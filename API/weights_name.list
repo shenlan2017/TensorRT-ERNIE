@@ -1,0 +1,431 @@
+['read_file_0.tmp_0', 'read_file_0.tmp_1', 'read_file_0.tmp_2', 'read_file_0.tmp_3', 'read_file_0.tmp_6', 'read_file_0.tmp_7', 'read_file_0.tmp_8', 'read_file_0.tmp_9', 'read_file_0.tmp_10', 'read_file_0.tmp_11', 'read_file_0.tmp_12', 'read_file_0.tmp_13']
+encoder_layer_10_multi_head_att_key_fc.w_0
+(768, 768)
+encoder_layer_7_multi_head_att_query_fc.b_0
+(768,)
+encoder_layer_7_post_ffn_layer_norm_bias
+(768,)
+encoder_layer_8_ffn_fc_0.b_0
+(3072,)
+encoder_layer_3_multi_head_att_key_fc.b_0
+(768,)
+encoder_layer_6_multi_head_att_query_fc.w_0
+(768, 768)
+encoder_layer_8_multi_head_att_value_fc.b_0
+(768,)
+encoder_layer_8_post_ffn_layer_norm_scale
+(768,)
+encoder_layer_7_post_att_layer_norm_scale
+(768,)
+encoder_layer_8_multi_head_att_key_fc.b_0
+(768,)
+encoder_layer_8_multi_head_att_output_fc.w_0
+(768, 768)
+encoder_layer_8_multi_head_att_output_fc.b_0
+(768,)
+encoder_layer_7_post_att_layer_norm_bias
+(768,)
+encoder_layer_8_multi_head_att_query_fc.w_0
+(768, 768)
+encoder_layer_9_ffn_fc_0.w_0
+(768, 3072)
+encoder_layer_5_multi_head_att_value_fc.w_0
+(768, 768)
+encoder_layer_9_post_att_layer_norm_bias
+(768,)
+encoder_layer_5_ffn_fc_1.w_0
+(3072, 768)
+encoder_layer_8_post_ffn_layer_norm_bias
+(768,)
+encoder_layer_9_multi_head_att_query_fc.b_0
+(768,)
+encoder_layer_7_multi_head_att_key_fc.w_0
+(768, 768)
+encoder_layer_9_ffn_fc_1.w_0
+(3072, 768)
+encoder_layer_3_post_att_layer_norm_bias
+(768,)
+encoder_layer_2_multi_head_att_output_fc.w_0
+(768, 768)
+encoder_layer_9_multi_head_att_key_fc.w_0
+(768, 768)
+sent_embedding
+(4, 768)
+encoder_layer_7_post_ffn_layer_norm_scale
+(768,)
+encoder_layer_0_multi_head_att_query_fc.b_0
+(768,)
+encoder_layer_7_ffn_fc_1.b_0
+(768,)
+encoder_layer_10_ffn_fc_1.w_0
+(3072, 768)
+encoder_layer_9_post_ffn_layer_norm_bias
+(768,)
+pre_encoder_layer_norm_bias
+(768,)
+encoder_layer_6_multi_head_att_query_fc.b_0
+(768,)
+encoder_layer_3_multi_head_att_query_fc.w_0
+(768, 768)
+feature_emb_fc_b2
+(384,)
+multi_field_1
+(11, 20)
+encoder_layer_9_multi_head_att_value_fc.b_0
+(768,)
+encoder_layer_10_ffn_fc_1.b_0
+(768,)
+encoder_layer_9_ffn_fc_1.b_0
+(768,)
+encoder_layer_1_multi_head_att_query_fc.b_0
+(768,)
+encoder_layer_0_post_ffn_layer_norm_bias
+(768,)
+encoder_layer_8_ffn_fc_0.w_0
+(768, 3072)
+encoder_layer_9_post_att_layer_norm_scale
+(768,)
+encoder_layer_1_post_ffn_layer_norm_scale
+(768,)
+encoder_layer_6_multi_head_att_value_fc.b_0
+(768,)
+encoder_layer_9_post_ffn_layer_norm_scale
+(768,)
+encoder_layer_7_ffn_fc_1.w_0
+(3072, 768)
+encoder_layer_8_ffn_fc_1.w_0
+(3072, 768)
+encoder_layer_5_post_att_layer_norm_scale
+(768,)
+encoder_layer_8_post_att_layer_norm_scale
+(768,)
+encoder_layer_2_ffn_fc_0.w_0
+(768, 3072)
+encoder_layer_7_multi_head_att_output_fc.b_0
+(768,)
+encoder_layer_5_ffn_fc_0.b_0
+(3072,)
+encoder_layer_7_multi_head_att_value_fc.w_0
+(768, 768)
+encoder_layer_4_multi_head_att_query_fc.w_0
+(768, 768)
+encoder_layer_5_multi_head_att_key_fc.w_0
+(768, 768)
+encoder_layer_2_post_att_layer_norm_bias
+(768,)
+multi_field_2
+(11, 20)
+encoder_layer_11_post_ffn_layer_norm_scale
+(768,)
+encoder_layer_6_post_att_layer_norm_bias
+(768,)
+encoder_layer_2_post_ffn_layer_norm_scale
+(768,)
+encoder_layer_9_multi_head_att_output_fc.w_0
+(768, 768)
+feature_emb_fc_w2
+(768, 384)
+encoder_layer_10_multi_head_att_output_fc.b_0
+(768,)
+encoder_layer_8_ffn_fc_1.b_0
+(768,)
+encoder_layer_4_ffn_fc_0.b_0
+(3072,)
+encoder_layer_6_multi_head_att_output_fc.w_0
+(768, 768)
+encoder_layer_10_multi_head_att_key_fc.b_0
+(768,)
+encoder_layer_11_multi_head_att_output_fc.b_0
+(768,)
+cls_out_b
+(1,)
+encoder_layer_4_post_ffn_layer_norm_scale
+(768,)
+encoder_layer_1_multi_head_att_output_fc.b_0
+(768,)
+encoder_layer_0_ffn_fc_1.b_0
+(768,)
+encoder_layer_5_multi_head_att_key_fc.b_0
+(768,)
+encoder_layer_4_post_att_layer_norm_scale
+(768,)
+encoder_layer_3_multi_head_att_value_fc.w_0
+(768, 768)
+encoder_layer_4_post_ffn_layer_norm_bias
+(768,)
+encoder_layer_3_multi_head_att_value_fc.b_0
+(768,)
+encoder_layer_2_multi_head_att_output_fc.b_0
+(768,)
+encoder_layer_1_post_att_layer_norm_bias
+(768,)
+encoder_layer_10_post_att_layer_norm_scale
+(768,)
+encoder_layer_0_post_att_layer_norm_bias
+(768,)
+encoder_layer_6_ffn_fc_1.b_0
+(768,)
+encoder_layer_2_multi_head_att_query_fc.b_0
+(768,)
+encoder_layer_11_ffn_fc_0.b_0
+(3072,)
+encoder_layer_6_ffn_fc_0.b_0
+(3072,)
+encoder_layer_11_post_att_layer_norm_bias
+(768,)
+encoder_layer_4_ffn_fc_1.w_0
+(3072, 768)
+encoder_layer_3_multi_head_att_key_fc.w_0
+(768, 768)
+encoder_layer_1_multi_head_att_output_fc.w_0
+(768, 768)
+encoder_layer_4_multi_head_att_output_fc.b_0
+(768,)
+multi_field_7
+(11, 20)
+encoder_layer_6_post_ffn_layer_norm_bias
+(768,)
+encoder_layer_11_multi_head_att_output_fc.w_0
+(768, 768)
+encoder_layer_1_multi_head_att_query_fc.w_0
+(768, 768)
+encoder_layer_4_ffn_fc_1.b_0
+(768,)
+cls_out_b_aside
+(1,)
+encoder_layer_9_multi_head_att_output_fc.b_0
+(768,)
+encoder_layer_4_multi_head_att_value_fc.w_0
+(768, 768)
+encoder_layer_1_multi_head_att_key_fc.b_0
+(768,)
+encoder_layer_3_ffn_fc_1.b_0
+(768,)
+encoder_layer_8_multi_head_att_query_fc.b_0
+(768,)
+encoder_layer_5_multi_head_att_value_fc.b_0
+(768,)
+encoder_layer_5_post_ffn_layer_norm_bias
+(768,)
+encoder_layer_9_multi_head_att_value_fc.w_0
+(768, 768)
+encoder_layer_11_post_att_layer_norm_scale
+(768,)
+cls_out_w
+(768, 1)
+encoder_layer_11_multi_head_att_query_fc.w_0
+(768, 768)
+encoder_layer_11_multi_head_att_query_fc.b_0
+(768,)
+encoder_layer_7_multi_head_att_key_fc.b_0
+(768,)
+encoder_layer_5_ffn_fc_1.b_0
+(768,)
+encoder_layer_4_multi_head_att_query_fc.b_0
+(768,)
+encoder_layer_9_ffn_fc_0.b_0
+(3072,)
+encoder_layer_5_ffn_fc_0.w_0
+(768, 3072)
+encoder_layer_11_post_ffn_layer_norm_bias
+(768,)
+encoder_layer_4_multi_head_att_key_fc.b_0
+(768,)
+encoder_layer_11_ffn_fc_0.w_0
+(768, 3072)
+encoder_layer_11_multi_head_att_value_fc.w_0
+(768, 768)
+encoder_layer_7_multi_head_att_value_fc.b_0
+(768,)
+encoder_layer_0_ffn_fc_1.w_0
+(3072, 768)
+encoder_layer_0_post_att_layer_norm_scale
+(768,)
+encoder_layer_0_multi_head_att_output_fc.b_0
+(768,)
+encoder_layer_1_multi_head_att_key_fc.w_0
+(768, 768)
+encoder_layer_2_multi_head_att_key_fc.b_0
+(768,)
+encoder_layer_2_ffn_fc_1.w_0
+(3072, 768)
+word_embedding
+(50000, 768)
+encoder_layer_4_post_att_layer_norm_bias
+(768,)
+pooled_fc.b_0
+(768,)
+encoder_layer_0_multi_head_att_key_fc.b_0
+(768,)
+encoder_layer_4_multi_head_att_key_fc.w_0
+(768, 768)
+encoder_layer_3_post_ffn_layer_norm_bias
+(768,)
+encoder_layer_10_ffn_fc_0.w_0
+(768, 3072)
+pre_encoder_layer_norm_scale
+(768,)
+feature_emb_fc_w
+(160, 768)
+multi_field_5
+(11, 20)
+multi_field_0
+(1432, 20)
+encoder_layer_6_post_ffn_layer_norm_scale
+(768,)
+encoder_layer_0_ffn_fc_0.b_0
+(3072,)
+encoder_layer_10_multi_head_att_query_fc.w_0
+(768, 768)
+encoder_layer_9_multi_head_att_query_fc.w_0
+(768, 768)
+cls_out_w_aside
+(384, 1)
+multi_field_4
+(11, 20)
+encoder_layer_5_multi_head_att_query_fc.w_0
+(768, 768)
+encoder_layer_10_post_ffn_layer_norm_bias
+(768,)
+encoder_layer_0_multi_head_att_value_fc.w_0
+(768, 768)
+encoder_layer_11_multi_head_att_value_fc.b_0
+(768,)
+encoder_layer_3_post_ffn_layer_norm_scale
+(768,)
+encoder_layer_1_ffn_fc_0.w_0
+(768, 3072)
+encoder_layer_0_post_ffn_layer_norm_scale
+(768,)
+encoder_layer_6_post_att_layer_norm_scale
+(768,)
+encoder_layer_5_post_ffn_layer_norm_scale
+(768,)
+multi_field_6
+(11, 20)
+encoder_layer_3_multi_head_att_query_fc.b_0
+(768,)
+multi_field_3
+(13, 20)
+encoder_layer_1_post_ffn_layer_norm_bias
+(768,)
+encoder_layer_2_post_att_layer_norm_scale
+(768,)
+pos_embedding
+(513, 768)
+encoder_layer_5_multi_head_att_output_fc.w_0
+(768, 768)
+encoder_layer_0_multi_head_att_key_fc.w_0
+(768, 768)
+encoder_layer_0_ffn_fc_0.w_0
+(768, 3072)
+pooled_fc.w_0
+(768, 768)
+encoder_layer_3_ffn_fc_1.w_0
+(3072, 768)
+encoder_layer_2_multi_head_att_key_fc.w_0
+(768, 768)
+encoder_layer_7_multi_head_att_output_fc.w_0
+(768, 768)
+encoder_layer_0_multi_head_att_query_fc.w_0
+(768, 768)
+encoder_layer_10_multi_head_att_output_fc.w_0
+(768, 768)
+encoder_layer_2_multi_head_att_value_fc.b_0
+(768,)
+encoder_layer_3_multi_head_att_output_fc.b_0
+(768,)
+encoder_layer_10_multi_head_att_value_fc.b_0
+(768,)
+encoder_layer_10_post_att_layer_norm_bias
+(768,)
+encoder_layer_5_multi_head_att_output_fc.b_0
+(768,)
+encoder_layer_0_multi_head_att_output_fc.w_0
+(768, 768)
+encoder_layer_6_multi_head_att_value_fc.w_0
+(768, 768)
+encoder_layer_2_multi_head_att_query_fc.w_0
+(768, 768)
+encoder_layer_6_multi_head_att_key_fc.b_0
+(768,)
+encoder_layer_10_post_ffn_layer_norm_scale
+(768,)
+encoder_layer_3_ffn_fc_0.w_0
+(768, 3072)
+encoder_layer_0_multi_head_att_value_fc.b_0
+(768,)
+feature_emb_fc_b
+(768,)
+encoder_layer_3_ffn_fc_0.b_0
+(3072,)
+encoder_layer_1_multi_head_att_value_fc.w_0
+(768, 768)
+encoder_layer_4_multi_head_att_value_fc.b_0
+(768,)
+encoder_layer_3_multi_head_att_output_fc.w_0
+(768, 768)
+encoder_layer_6_multi_head_att_key_fc.w_0
+(768, 768)
+encoder_layer_11_ffn_fc_1.w_0
+(3072, 768)
+encoder_layer_8_multi_head_att_key_fc.w_0
+(768, 768)
+encoder_layer_7_ffn_fc_0.b_0
+(3072,)
+encoder_layer_10_ffn_fc_0.b_0
+(3072,)
+encoder_layer_8_post_att_layer_norm_bias
+(768,)
+encoder_layer_9_multi_head_att_key_fc.b_0
+(768,)
+encoder_layer_2_multi_head_att_value_fc.w_0
+(768, 768)
+encoder_layer_11_multi_head_att_key_fc.b_0
+(768,)
+encoder_layer_11_ffn_fc_1.b_0
+(768,)
+encoder_layer_11_multi_head_att_key_fc.w_0
+(768, 768)
+encoder_layer_2_ffn_fc_1.b_0
+(768,)
+encoder_layer_1_ffn_fc_1.b_0
+(768,)
+encoder_layer_1_ffn_fc_0.b_0
+(3072,)
+encoder_layer_1_post_att_layer_norm_scale
+(768,)
+encoder_layer_10_multi_head_att_query_fc.b_0
+(768,)
+encoder_layer_5_multi_head_att_query_fc.b_0
+(768,)
+encoder_layer_1_multi_head_att_value_fc.b_0
+(768,)
+encoder_layer_1_ffn_fc_1.w_0
+(3072, 768)
+encoder_layer_6_ffn_fc_1.w_0
+(3072, 768)
+encoder_layer_2_ffn_fc_0.b_0
+(3072,)
+encoder_layer_2_post_ffn_layer_norm_bias
+(768,)
+encoder_layer_7_multi_head_att_query_fc.w_0
+(768, 768)
+encoder_layer_10_multi_head_att_value_fc.w_0
+(768, 768)
+encoder_layer_3_post_att_layer_norm_scale
+(768,)
+encoder_layer_4_multi_head_att_output_fc.w_0
+(768, 768)
+encoder_layer_6_ffn_fc_0.w_0
+(768, 3072)
+encoder_layer_4_ffn_fc_0.w_0
+(768, 3072)
+encoder_layer_7_ffn_fc_0.w_0
+(768, 3072)
+encoder_layer_8_multi_head_att_value_fc.w_0
+(768, 768)
+encoder_layer_6_multi_head_att_output_fc.b_0
+(768,)
+encoder_layer_5_post_att_layer_norm_bias
+(768,)
