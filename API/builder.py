@@ -313,7 +313,7 @@ def build_model(network_helper, config, weights_dict, src_ids_tensor, sent_ids_t
     #  head.bias [10]
     cls_out_w = weights_dict["cls_out_w"]
     cls_out_b = weights_dict["cls_out_b"]
-    import pdb; pdb.set_trace()
+    # import pdb; pdb.set_trace()
     cls_out = network_helper.addLinear(x, cls_out_w, cls_out_b)
     # print("cls_out")
 
