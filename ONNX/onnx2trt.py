@@ -20,6 +20,9 @@ def onnx2trt(args):
     network = builder.create_network(1<<int(trt.NetworkDefinitionCreationFlag.EXPLICIT_BATCH))
     config.max_workspace_size = 3<<30
 
+    if args.fp16:
+        config.set_flag(trt.BuilderFlag.FP16)
+
     parser = trt.OnnxParser(network, logger)
     if not os.path.exists(onnx_file):
         raise RuntimeError("Failed finding onnx file!")
